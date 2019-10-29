@@ -1,1 +1,1 @@
-# Documentation
+# RiMo
